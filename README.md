@@ -61,4 +61,4 @@ You will also need:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/qr-code-generator.git
+   git clone https://github.com/kavinda9210/QRGenerator
